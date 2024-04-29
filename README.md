@@ -10,7 +10,7 @@ YouTube Video Downloader is a simple web application that allows users to downlo
 ## Installation
 
 1. Clone the repository to your local machine:
-git clone [YouTube-Video-Downloader-Using-Flask] (https://github.com/Maverick341/YouTube-Video-Downloader-Using-Flask/tree/main)
+git clone [YouTube-Video-Downloader-Using-Flask](https://github.com/Maverick341/YouTube-Video-Downloader-Using-Flask/tree/main)
 
 2. Install the required dependencies:
 pip install -r requirements.txt
